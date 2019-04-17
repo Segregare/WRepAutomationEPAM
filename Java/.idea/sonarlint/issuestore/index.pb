@@ -3,3 +3,17 @@
 .src/com/company/Collections/MainTaskFirst.java,7\6\7645ffa2373a7c8a5a6be572faef3869e644de8a
 S
 #src/com/company/Threads/Runner.java,3\3\3376bf8bb6d4fa4fb96c740292fc9397ac8f68f0
+e
+5src/com/company/Collections/OptionalTaskThirteen.java,1\d\1d40c68e741878b03c05e969a0037fc05d94c23a
+`
+0src/com/company/Collections/OptionalTaskOne.java,5\d\5d7b6fba5fd6187f50c5610c6dcaf3d658c54c26
+_
+/src/com/company/Collections/MainTaskSecond.java,2\f\2f8c2bb54da8e5e658dd6d571a1ea900e4487a99
+`
+0src/com/company/Collections/OptionalTaskTwo.java,d\4\d4dfde86a2f9cf6c57593703bbbbcfb34a0ff345
+`
+0src/com/company/Collections/OptionalTaskSix.java,e\8\e80d13c5f91e79642dbd26dac362c76e880e860c
+e
+5src/com/company/Collections/OptionalTaskFourteen.java,e\1\e1d1dc5de15bd5a610ab94a338a8d1d19305d193
+d
+4src/com/company/Collections/OptionalTaskSixteen.java,b\b\bb9823789d06193bf3213bc63ba198e3bea62520

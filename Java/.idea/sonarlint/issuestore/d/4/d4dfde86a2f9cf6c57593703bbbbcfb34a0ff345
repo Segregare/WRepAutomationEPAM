@@ -1,0 +1,13 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àèôã8˜öÓà¢-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢óÉä8˜öÓà¢-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥¶à‹ÿÿÿÿÿ8˜öÓà¢-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(äÄŒ¸ûÿÿÿÿ8˜öÓà¢-
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ÕÀŞÌ8˜öÓà¢-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à×œ8˜öÓà¢-
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8˜öÓà¢-
