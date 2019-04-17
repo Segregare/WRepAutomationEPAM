@@ -3,42 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8d77183b-c33a-4076-9789-7c8fe3ced30f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java123.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java123.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Collections/MainTaskFirst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Collections/MainTaskSecond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Collections/OptionalTaskFourteen$LengthSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Collections/OptionalTaskFourteen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Collections/OptionalTaskOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Collections/OptionalTaskSix$LengthSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Collections/OptionalTaskSix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Collections/OptionalTaskThirteen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Collections/OptionalTaskTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Exceptions/NoComputingException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Exceptions/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Fundamentals/Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Fundamentals/Datatypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Fundamentals/Operators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Fundamentals/StartedFirst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Fundamentals/StartedSecond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/TaskAClasses/Purchaser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/TaskAClasses/PurchaserArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/TaskAClasses/TaskA$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/TaskAClasses/TaskA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/TaskBClasses/Accessory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/TaskBClasses/Bouquet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/TaskBClasses/Flower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/TaskBClasses/Knapweed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/TaskBClasses/Lilac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/TaskBClasses/MyBouquet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/TaskBClasses/Ribbon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/TaskBClasses/Rose.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/TaskBClasses/Wrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Threads/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Threads/CarPlace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Threads/CarPlacePool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Threads/ResourсeException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Threads/Runner$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java123/com/company/Threads/Runner.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Collections/MainTaskFirst.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Threads/Runner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -131,13 +104,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -145,7 +111,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555516679312" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555517320218" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -212,7 +178,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -273,6 +238,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Threads/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
